@@ -1,5 +1,7 @@
 package net.micode.notes;
 
+// here do something
+
 import android.os.Bundle;
 
 import androidx.activity.EdgeToEdge;
